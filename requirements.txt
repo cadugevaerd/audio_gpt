@@ -1,0 +1,10 @@
+openai>=1.0.0
+python-dotenv
+requests
+yfinance
+pillow
+PyAudio
+SpeechRecognition
+noisereduce
+playsound@git+https://github.com/taconi/playsound
+setuptools
