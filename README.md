@@ -1,4 +1,4 @@
-# audio_gpt
+# Audio GPT
 Chat GPT que utiliza input e outputs em áudio.
 
 ## Instalando
